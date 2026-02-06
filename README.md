@@ -1,6 +1,8 @@
 # HRS-project-data
 Health and Retirement Study (HRS) Data Cleaning & Preparation
+
 Project Overview
+
 This project cleans and subsets data from the RAND Health and Retirement Study (HRS), a nationally representative longitudinal survey of older Americans, to create a reproducible analytic dataset for downstream statistical analysis.
 The workflow focuses on extracting, reshaping, and preparing demographic, labor, health, stress, sleep, and physical activity variables from a high-dimensional, multi-wave dataset.
 This project demonstrates skills in data wrangling, longitudinal data management, and reproducible analysis using real-world survey data.

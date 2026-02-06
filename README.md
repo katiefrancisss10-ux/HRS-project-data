@@ -43,9 +43,7 @@ Log files are generated to track all data processing steps.
 Raw data are intentionally excluded to comply with HRS data use policies.
 
 Potential Extensions
-Regression analysis of post-retirement health outcomes
-Longitudinal analysis of stress, sleep, and physical activity
-Policy-relevant research on aging and labor force exit
+Regression analysis of post-retirement health outcomes; Longitudinal analysis of stress, sleep, and physical activity; Policy-relevant research on aging and labor force exit
 
 Author
 Katie Francis

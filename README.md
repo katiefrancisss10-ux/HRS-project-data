@@ -23,7 +23,7 @@ Methods
 Key data preparation steps include:
 - Importing and subsetting variables from the RAND HRS longitudinal file
 - Reshaping multi-wave data from wide to long format
-	- Applying sample restrictions
+- Applying sample restrictions
 - Declaring panel structure for longitudinal analysis
 - Creating a physical activity frequency indicator
 
@@ -33,9 +33,9 @@ RAND HRS documentation
 Longitudinal survey data methods
 
 Repository Structure
-hrs_data_cleaning.do: Main data cleaning and preparation script
-README.md: Project documentation
-.gitignore: Excludes restricted data and log files
+- hrs_data_cleaning.do: Main data cleaning and preparation script
+- README.md: Project documentation
+- .gitignore: Excludes restricted data and log files
 
 Reproducibility Notes
 File paths must be updated locally before running the script.
